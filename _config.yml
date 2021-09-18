@@ -5,7 +5,5 @@ email: bengarahackmore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  I played World of Warcraft for more than a decade. Then I discovered the Viera
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
