@@ -1,6 +1,6 @@
 ---
 title: "So I am starting an MMO"
-date: 2021-09-18
+date: 2021-07-24
 ---
 
 Final Fantasy XIV Online has been getting a lot of press lately as the place World of Warcraft players are finding refuge from the tedium of the latest expansion.
