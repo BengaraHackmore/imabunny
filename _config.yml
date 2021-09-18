@@ -3,7 +3,7 @@ theme: minima
 author: Bungara Hackmore
 email: bengarahackmore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- I've been playing World of Warcraft for more than a decade. Then I discovered the Viera
+ I played World of Warcraft for more than a decade. Then I discovered the Viera
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
